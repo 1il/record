@@ -1,0 +1,8 @@
+chapter 9
+studied: jan-11
+review on:
+	jan-12
+	jan-14 
+	jan-18
+	feb-11
+
